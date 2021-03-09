@@ -1,0 +1,31 @@
+body {
+  background-size:cover;
+  background-repeat: no-repeat;
+  background-position: center;
+}
+
+#titlegradient {
+  background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(235,207,52,1));
+}
+#storygradient {
+  background-image: linear-gradient(to left, rgba(0,0,0,0), rgba(52,189,235,1));
+}
+#charactergradient {
+  background-image: linear-gradient(to right, rgba(0,0,0,0), rgba(245,66,120,1), rgba(0,0,0,0));
+}
+
+.charaimg:hover{ 
+  animation: rotate 0.8s linear; 
+} 
+
+@keyframes rotate{ 
+  0%{ 
+    transform: rotate(0deg); 
+    } 
+  50%{ 
+    transform: rotate(220deg); 
+    } 
+  100%{ 
+    transform: rotate(360deg); 
+    } 
+}
