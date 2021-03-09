@@ -1,0 +1,284 @@
+<!----------
+
+[reverie] by skate
+don't remove credit pls
+
+- u can change the header gradient colors in the css section
+- the button colors are #777
+- the text background color is #fff
+- the text color is #000
+
+- u can edit anything or "frankenstein" this w anything
+- just pls keep credit lol
+
+----------->
+
+
+<div class="container mx-auto" style="max-width:600px;">
+
+<div class="tab-content">
+  <div class="tab-pane fade active show" id="page1">
+<!----banner image---->
+  <div class="card rounded-0 my-lg-2 p-2 border-0" style="border-radius:20px;background-image:url(https://stickskills.com/wp-content/uploads/2013/04/bravely-header.png);height:175px;background-size:cover;background-position:center;background-repeat:no-repeat;">
+<!----banner image end---->
+  </div>
+
+<div class="row no-gutters">
+<!---side image--->
+  <div class="card col-6 p-1 border-0" style="border-radius:20px;background-image:url(https://cdn.staticneo.com/w/bravely/Florem_%28Bravely_Second%29.png);height:280px;background-size:cover;background-position:center;background-repeat:no-repeat;"></div>
+<!---side image end--->
+  <div class="col-6 row no-gutters p-1">
+    <div id="titlegradient" class="card col-12 p-1 mb-3 border-0" style="background-color:transparent;">
+      <p align="right" style="color:#fff;font-variant:small-caps;">
+      An Entertaining Title
+      </p>
+    </div>
+    <div class="card col-12 p-1 border-0" style="background-color:#fff">
+      <p align="justify" style="height:220px;overflow:auto;color:#000">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus diam et aliquet elementum. Fusce posuere viverra justo, a molestie mauris eleifend ac. Vivamus non lectus est. Morbi a posuere quam, ut semper dui. Suspendisse fermentum, nisl sed tempor feugiat, risus mi varius sem, a molestie leo justo at dolor. Ut efficitur molestie nibh, at blandit quam venenatis non. Sed molestie orci in lorem consequat, non consequat sapien volutpat. Vivamus vel hendrerit magna. Morbi efficitur a lorem quis pretium. Sed in sapien vitae lorem imperdiet facilisis et et sapien. 
+      </p>
+    </div>
+  </div>
+</div>
+</div>
+
+<!---story section--->
+
+<div class="tab-pane fade" id="page2">
+  <div class="row no-gutters">
+  <div class="col-7 row no-gutters">
+    <div id="storygradient" class="card col-12 p-1 mb-3 border-0" style="background-color:transparent;">
+      <p align="left" style="color:#fff;font-variant:small-caps;">
+      Some Crazy Backstory
+      </p>
+    </div>
+
+<!---chapter 1--->
+<div class="tab-content">
+<div class="tab-pane fade active show" id="story1">
+    <div class="card col-12 p-1 mb-2 border-0" style="background-color:#fff;">
+      <div align="justify" style="height:340px;overflow:auto;">
+      <p style="color:#000;">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc rhoncus diam et aliquet elementum. Fusce posuere viverra justo, a molestie mauris eleifend ac. Vivamus non lectus est. Morbi a posuere quam, ut semper dui. Suspendisse fermentum, nisl sed tempor feugiat, risus mi varius sem, a molestie leo justo at dolor. Ut efficitur molestie nibh, at blandit quam venenatis non. Sed molestie orci in lorem consequat, non consequat sapien volutpat. Vivamus vel hendrerit magna. Morbi efficitur a lorem quis pretium. Sed in sapien vitae lorem imperdiet facilisis et et sapien.
+        </p>
+        <p style="color:#000;">
+        Etiam vestibulum lacus metus, eu feugiat felis ultricies at. Morbi ultrices nisl sit amet velit laoreet feugiat. Etiam leo nibh, convallis a tincidunt at, faucibus maximus mi. Nulla non ornare ex. Phasellus placerat enim quis enim dignissim posuere. Proin eu porta turpis. Ut tellus nisl, pharetra nec nisi ac, condimentum dignissim enim.
+      </p>
+        <p style="color:#000;">
+        Phasellus ut lacinia libero. Aenean egestas, mauris sed sollicitudin sollicitudin, dui leo gravida velit, sit amet tristique ligula massa et nisi. Donec ut dui eu lacus pulvinar ultrices. Integer vitae lorem bibendum, viverra magna eu, commodo eros. Phasellus a sapien velit. Donec rutrum, sapien nec finibus semper, magna mauris placerat nibh, vel auctor mi ex id lorem. Phasellus vel congue dolor. Nam ultrices, massa nec viverra consectetur, lorem erat tempus nisi, eget rhoncus leo turpis mattis tellus. Aliquam ut velit rutrum, pretium enim a, ullamcorper urna. Fusce et ipsum velit. Quisque posuere nulla nec diam aliquam, cursus condimentum dui consectetur.
+      </p>
+    </div>
+    </div>
+    </div>
+<!---chapter 1 end--->
+<!---chapter 2--->
+<div class="tab-pane fade" id="story2">
+    <div class="card col-12 p-1 mb-2 border-0" style="background-color:#fff">
+      <div align="justify" style="height:340px;overflow:auto;">
+      <p style="color:#000">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque mi augue, lobortis quis venenatis ac, aliquam ut ipsum. Nunc est urna, tempor at scelerisque vitae, congue ut leo. In pharetra risus quis tincidunt dictum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Fusce in lorem eget mauris maximus pulvinar sed eget nisi. Proin in tempor ligula. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras metus arcu, viverra eget imperdiet ut, consectetur non dolor.
+        </p>
+      <p style="color:#000">
+        Aenean eget nisi metus. Sed interdum pretium dui, ac laoreet enim dictum id. Cras odio mi, vulputate et leo a, viverra semper lorem. In sollicitudin, lacus id pretium scelerisque, velit orci finibus arcu, nec fermentum tortor nisi viverra diam. Sed quis mauris a urna placerat suscipit vitae vitae purus. Nunc sit amet augue sed mi eleifend fringilla. Curabitur scelerisque condimentum urna nec malesuada. In hac habitasse platea dictumst. Cras posuere gravida sem quis rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Praesent sagittis et sapien eget maximus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Aliquam fermentum lectus eu urna sodales, at tempus lorem pellentesque. Aliquam eget posuere quam, cursus pulvinar enim. Donec euismod cursus tellus, vel bibendum nisi volutpat ac. Nunc condimentum lectus vitae tellus congue, eget feugiat massa tristique.
+        </p>
+      <p style="color:#000">
+        Integer eu ligula ante. Aenean volutpat tellus sit amet libero efficitur molestie. Fusce euismod sed dolor ut posuere. Donec tempor euismod massa, sit amet tristique quam efficitur eget. Mauris sagittis nec eros quis rutrum. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Sed ac erat aliquam massa iaculis bibendum fermentum vel eros. In eget urna a diam malesuada volutpat. Sed sollicitudin ante vitae efficitur consequat. Quisque et interdum ipsum, et fringilla nunc. Proin elementum vestibulum arcu, quis consequat felis facilisis vel. Quisque elementum diam sit amet vehicula ultrices. Nulla quis eleifend quam.
+        </p>
+    </div>
+    </div>
+    </div>
+<!---chapter 2 end--->
+<!---chapter 3--->
+<div class="tab-pane fade" id="story3">
+    <div class="card col-12 mb-2 p-1 border-0" style="background-color:#fff">
+      <div align="justify" style="height:340px;overflow:auto;">
+      <p style="color:#000">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin lobortis odio dui. Maecenas eleifend ipsum in nunc auctor, eu malesuada lectus sollicitudin. Sed in libero id elit aliquam dictum. Sed pellentesque ex nulla, vitae facilisis odio porta eu. Proin pretium, leo ac volutpat molestie, ipsum justo maximus ligula, eget commodo ex elit iaculis orci. Vestibulum accumsan tempor velit, non vestibulum neque rhoncus placerat. Nam at cursus sem. Proin lobortis lobortis rutrum. Curabitur vel suscipit justo. Proin id diam eget nunc tristique sagittis vitae id metus. Aenean non libero vel urna tempor vestibulum vitae sed lacus. Quisque lorem lectus, posuere eget sem nec, porttitor accumsan risus. Donec placerat tincidunt mauris id tempus.
+        </p>
+      <p style="color:#000">
+        Integer convallis, nibh non commodo hendrerit, tellus eros ultricies nunc, vitae varius nunc urna a neque. Sed varius arcu a mattis venenatis. Pellentesque ornare velit vitae dui blandit mattis. Vestibulum at sem a leo cursus cursus at at augue. Nulla facilisi. Vestibulum sit amet nulla gravida, fringilla purus ut, vulputate est. Mauris eu justo ac risus condimentum luctus et non massa. Sed sapien justo, ultrices a metus pretium, congue convallis nunc. Nunc enim risus, ornare sit amet eleifend sed, cursus a dui. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vivamus justo elit, pretium quis pharetra vel, mollis vitae purus. Phasellus tincidunt ante eu viverra consectetur. Suspendisse vitae ipsum sed purus mattis ultricies. Praesent pellentesque eros at nisi mollis facilisis vel a ex. Etiam hendrerit nisl lorem, eu mattis urna facilisis eu.
+        </p>
+      <p style="color:#000">
+        Curabitur imperdiet elit mi, vel fringilla purus elementum eget. Suspendisse potenti. Etiam sed convallis lorem. Etiam tristique porta neque. Nullam dui mi, vehicula in massa ut, dignissim fringilla mauris. Donec imperdiet odio quis magna rutrum sodales. Vivamus quis odio leo. Nam ut quam sit amet nisl porta ullamcorper. Sed sollicitudin lectus ut quam hendrerit, vel convallis nisi volutpat. Pellentesque nec tempor lectus, scelerisque ultrices metus. Donec bibendum arcu nec sodales porta. Nulla tristique viverra mauris, at hendrerit erat convallis malesuada.
+        </p>
+    </div>
+    </div>
+    </div>
+<!---chapter 3 end--->
+    </div>
+
+<!---more buttons--->
+    <div class="card col-12 p-1 border-0" style="background-color:#fff">
+      <ul class="nav nav-tabs card-header-tabs row mb-1">
+        <li class="col-md-12 mb-1" align="center">
+          <a class="btn" data-toggle="tab" href="#story1" style="color:#777;">
+            i
+          </a>
+          <a class="btn" data-toggle="tab" href="#story2" style="color:#777;">
+            ii
+          </a>
+          <a class="btn" data-toggle="tab" href="#story3" style="color:#777;">
+            iii
+          </a>
+        </li>
+      </ul>
+    </div>
+<!---more buttons end--->
+  </div>
+<!---side image--->
+  <div class="card col-5 p-1 border-0" style="border-radius:20px;background-image:url(https://www.gameinformer.com/sites/default/files/styles/full/public/2021/02/25/b0702167/switch_bravelydefaultii_screenshot_1.jpg);height:460px;background-size:cover;background-position:center;background-repeat:no-repeat;"></div>
+<!---side image end--->
+</div>
+</div>
+<!---story section--->
+
+
+<!---character section--->
+<div class="tab-pane fade" id="page3">
+    <div id="charactergradient" class="card col-12 p-1 mb-3 border-0" style="background-color:transparent;">
+      <p align="center" style="color:#fff;font-variant:small-caps;">
+      And an Awesome Cast of Characters
+      </p>
+    </div>
+<div class="card rounded p-1 border-0" style="background-color:transparent;height:415px;overflow-y:auto;overflow-x:hidden;">
+
+<!---mc boxes--->
+  <div class="row no-gutters">
+<!---mc 1--->
+    <div class="card col-3 p-1 border-0" style="background-color:transparent;">
+      <a class="charaimg" style="border-radius:50%;background-image:url(https://pbs.twimg.com/profile_images/587321000305430528/_k4sjlGl_400x400.jpg);height:135px;width:135px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+      </a>
+    </div>
+<!---mc 1 end--->
+<!---mc 2--->
+    <div class="card col-3 p-1 border-0" style="background-color:transparent;">
+      <a class="charaimg" style="border-radius:50%;background-image:url(https://64.media.tumblr.com/42a02818b6b1c91ba5fb9995c043de5e/tumblr_pq7hcnxb691xm29lmo7_250.png);height:135px;width:135px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+      </a>
+    </div>
+<!---mc 2 end--->
+<!---mc 3--->
+    <div class="card col-3 p-1 border-0" style="background-color:transparent;">
+      <a class="charaimg" style="border-radius:50%;background-image:url(https://pbs.twimg.com/profile_images/485483013203972096/DpFBP-xR_400x400.png);height:135px;width:135px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+      </a>
+    </div>
+<!---mc 3 end--->
+<!---mc 4--->
+    <div class="card col-3 p-1 border-0" style="background-color:transparent;">
+      <a class="charaimg" style="border-radius:50%;background-image:url(https://pbs.twimg.com/profile_images/533846689468006400/q9QhHJLN_400x400.png);height:135px;width:135px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+      </a>
+    </div>
+<!---mc 4 end--->
+</div>
+
+<!---mc boxes end--->
+
+<!---side characters--->
+
+<div class="row no-gutters">
+
+<!---side character 1--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 1 end--->
+
+<!---side character 2--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 2 end--->
+
+<!---side character 3--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 3 end--->
+
+<!---side character 4--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 4 end--->
+
+<!---side character 5--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 5 end--->
+
+<!---side character 6--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 6 end--->
+
+<!---side character 7--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 7 end--->
+
+<!---side character 8--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 8 end--->
+
+<!---side character 9--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 9 end--->
+
+<!---side character 10--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 10 end--->
+
+<!---side character 11--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 11 end--->
+
+<!---side character 12--->
+  <div class="card col-2 p-1 border-0" style="background-color:transparent;">
+    <a class="charaimg" style="border-radius:50%;background-image:url(https://i.pinimg.com/originals/a8/74/b9/a874b9fca1746f44967d2dcdc9c0a4e6.jpg);height:90px;width:90px;background-size:cover;background-position:center;background-repeat:no-repeat;" href="LINK" target="_blank">
+  </div>
+<!---side character 12 end--->
+
+</div>
+<!---side characters end--->
+
+
+</div>
+</div>
+
+
+<!---character section end--->
+
+</div>
+
+
+
+<!---buttons--->
+<ul class="nav nav-tabs card-header-tabs row mb-1" align="center">
+  <li class="col-md-12 mb-1">
+    <a class="btn" data-toggle="tab" href="#page1">
+      <i class="fas fa-star" style="color:#777;"></i>
+    </a>
+    <a class="btn" data-toggle="tab" href="#page2">
+      <i class="fas fa-star" style="color:#777;"></i>
+    </a>
+    <a class="btn" data-toggle="tab" href="#page3">
+      <i class="fas fa-star" style="color:#777;"></i>
+    </a>
+  </li>
+</ul>
+<!---buttons end--->
+
+<!---credit.. pls no remove.. but u can move it around--->
+<a href="https://toyhou.se/skate" class="pull-right" ><i class="fal fa-code" style="color:#777;"></i></a>
+
+</div>
