@@ -1,0 +1,15 @@
+#pagedoll:hover {
+    animation-name: pagedollanimation;
+    animation-duration: 1s;
+    animation-direction: normal;
+    animation-iteration-count: 1;
+    position: relative;
+}
+
+@keyframes pagedollanimation {
+0% {transform: rotate(0deg);bottom:0px;}
+50% {transform: rotate(0deg);bottom:100px;}
+65% {transform: rotate(0deg);bottom:0px;}
+75% {transform: rotate(0deg);bottom:40px;}
+100% {transform: rotate(0deg);bottom:0px;}
+}
