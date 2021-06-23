@@ -1,0 +1,12 @@
+#pagedoll {
+    animation-name: pagedollanimation;
+    animation-duration: 1s;
+    animation-direction: normal;
+    animation-iteration-count: 1;
+    position: relative;
+}
+
+@keyframes pagedollanimation {
+0% {transform: translate(0px, -100px); opacity: 0;}
+100% {transform: translate(0px, 0px); opacity: 1;}
+}
